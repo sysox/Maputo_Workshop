@@ -18,5 +18,5 @@ and new Jupyter notebook (3rd one added to the repository) updated by Marek.
 
 - 14:30-45 break
 
-- 14:45 theory tests start at [eCourse] (https://is.muni.cz/ekurzy/maputo2024)
+- 14:45 theory tests start at [eCourse](https://is.muni.cz/ekurzy/maputo2024)
 and close 15:30
