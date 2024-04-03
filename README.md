@@ -3,12 +3,9 @@
 In case you are not able to install the packages, or other things you can work online here [mybinder]( https://mybinder.org/v2/gh/sysox/Maputo_Workshop/HEAD) But it requires internet connection and it should be used only if neccessary.
 
 # Our plan for you today is:
-- 11:45-12:45 students work with the [videos](https://is.muni.cz/el/fi/ekurzy/maputo2024/um/), Marek is available on Zoom
+- 11:45-13:10 students work with the [videos](https://is.muni.cz/el/fi/ekurzy/maputo2024/um/), Marek is available on Zoom
 URL: [Zoom link](https://cesnet.zoom.us/my/pv080?pwd=SlNQYy9qaHUyRmE3bzE0R1ZhSFRPZz09)
-and also his email syso@mail.muni.cz
-
-
-- 13:30-13:XY above session continues and its end is declared by Marek either over Zoom or in the worst case email(sent throught IS MU [eCourse](https://is.muni.cz/ekurzy/maputo2024)).
+and also his email syso@mail.muni.cz. Session end is declared by Marek either over Zoom or in the worst case email(sent throught IS MU [eCourse](https://is.muni.cz/ekurzy/maputo2024)).
 
 - 13:50 practical test starts with a short video (#3 Test),
 and new Jupyter notebook (3rd one added to the repository) updated by Marek.
