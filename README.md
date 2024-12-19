@@ -14,11 +14,7 @@ Install to your machine (prefered option)!
 
 - Execute the jupyter notebook still in repo and in ```Powershell```:
     - ```python -m notebook``` 
-- Work with jupyter notebooks in the opened browser:
-   - Click on the jupyter notebook with tasks like                        
-       - ```Basic_tasks.ipynb``` or 
-       - ```PV080_seminar3_tasks```
-    - In case, you got stuck you can check the provided solution e.g. ```Basic_solution.ipynb```
+
 	 
 ## Linux
 - Clone the repository:
@@ -29,6 +25,13 @@ Install to your machine (prefered option)!
     - ```pip install -r requirements.txt```
 - Execute the jupyter notebook:
 	- ```jupyter notebook```
+
+## Programming 
+- Work with jupyter notebooks in the opened browser:
+   - Click on the jupyter notebook with tasks:
+       - ```Basic_tasks.ipynb``` or 
+       - ```PV080_seminar3_tasks```
+    - In case, you got stuck you can check the provided solution e.g. ``Basic_solution.ipynb```
 
 ## Issues
 In case you are not able to install the packages, or other things you can work online [binder](https://mybinder.org/v2/gh/sysox/Maputo_Workshop/HEAD).  But it requires internet connection and it should be used only if neccessary since you can not save intermediate code.
