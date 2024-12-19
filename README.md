@@ -5,7 +5,7 @@ Install to your machine (prefered option)!
 # Setup instructions
 ## Windows 
 - Open the ```Powershell```
-	Clone the repository:
+- Clone the repository:
     - ```git clone https://github.com/sysox/Maputo_Workshop.git``` 
 - Go to repository:
     - ```cd .\Maputo_Workshop\```
