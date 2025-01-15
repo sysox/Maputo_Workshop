@@ -32,6 +32,3 @@ Install to your machine (prefered option)!
        - ```Basic_tasks.ipynb``` or 
        - ```PV080_seminar3_tasks```
     - In case, you got stuck you can check the provided solution e.g. ```Basic_solution.ipynb```
-
-## Issues
-In case you are not able to install the packages, or other things you can work online [binder](https://mybinder.org/v2/gh/sysox/Maputo_Workshop/HEAD).  But it requires internet connection and it should be used only if neccessary since you can not save intermediate code.
